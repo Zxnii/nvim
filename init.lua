@@ -1,3 +1,3 @@
 vim.loader.enable()
-require("andyb")
+require("zani")
 

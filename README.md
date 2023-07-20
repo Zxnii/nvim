@@ -1,1 +1,1 @@
-vim config :3
+neovim config yipee!! :3 :3 :3
